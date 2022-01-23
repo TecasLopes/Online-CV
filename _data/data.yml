@@ -33,118 +33,147 @@ sidebar:
         level: Basic (Currently learning)
         
         
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
-    - degree: TechANTers: Tech Recruitment
-      university: Damia Group Tech Recruitment Academy
-      time: 10/01/2022 - 03/03/2022
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
       details: |
-       Covers topics such as basic programming concepts, technical 
-       profiles, different types of businesses, recruitment processes and flows, 
-       CV screening, interviews, sourcing, announcements and personal branding 
-       in public platforms, negotiation and communication strategies and key 
-       essential skills for tech recruiters.
-         
-    - degree: CIPD Level 5 Diploma in Human Resources Management
-      university: ICS Learn
-      time: 03/09/2020 - 03/03/2022
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
       details: |
-        Includes topics such as resourcing, recruitment and selection, workforce, 
-        and talent planning, retaining talent, change management, performance reviews,
-        leadership, labour market and trends, equality and diversity, motivation,
-        reward, and employment law.
-          
-
-    - degree: Professional Diploma in Leadership & Management
-      university: Shaw Academy, accredited by International Accreditation
-      Organization, CPD certification Service and ICSOC
-      time: 01/07/2019 - 01/01/2020
-      details: |
-        Incorporates subjects such as leadership, organizational culture, diversity 
-        management, innovation and creativity, communication, coaching, emotional 
-        intelligence, conflict management, strategic thinking, stress management, 
-        resilience, strategic awareness, and change management.
-        
-       
-     - degree: Nursing Degree
-      university: Instituto Politécnico de Setúbal - Escola Superior de Saúde, 
-      Setúbal, Portugal
-      time: 24/09/2012 - 26/07/2016
-      details: |
-        Comprises basic life support, basic pediatric life support and advanced 
-        life support, as well as modules in adult care, pediatrics, women and 
-        reproductive health, elderly care, psychiatry, complex and critical care, 
-        and end of life care.
-         
-         
-         
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
 experiences:
-    - role: Nurse
-      time: February 2017 - October 2021
-      company: Broadmoor Hospital, High Secure Mental Health Hospital, Crowthorne, UK
-     
-     
-    - role: Nurse
-      time: August 2016 - September 2016
-      company: High Secure Hospital São João de Deus, Mental Health Ward, Caxias- Lisbon, Portugal
-      
-      
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
       details: |
-              In my roles as a nurse, I was responsible for coordinating all 
-              aspects of patients care. I developed my communication and 
-              relational skills, as well as leadership and conflict resolution skills. 
-              I was assigned the role of nurse in charge, having to lead the ward, 
-              staff, and patients, and manage patient care and staffs duties and 
-              responsibilities, as well as all practical aspects of running a shift in 
-              a very challenging environment. I also had an active role as a part of the 
-              Multidisciplinary Team, in planning and delivering care to patients. I was 
-              responsible for managing crisis and complex situations, as well as review the 
-              performance of subordinate staff, monthly.
-
-          
-    
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
 projects:
-      title: Projects
-      intro: In my work as a nurse, I implemented a “Mindfulness Group” on the ward, where we 
-              taught patients and staff different mindfulness skills, with the objective of developing 
-              their coping strategies. I also implemented the Safewards Project on the ward, with the 
-              purpose of reducing conflict and restraint and lower incidents on the ward.
-              I created a welcome booklet with all the ward’s relevant information for patients and staff 
-              new to the ward, to reduce anxieties and promote engagement.
-              I also implemented a project denominated “Healthy body, healthy mind”, which consisted of 
-              different activities and strategies linking physical health with mental health to improve 
-              overall patient health.
-      
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-        skills:
-      personal skills: Communication and relational skills, leadership skills, conflict 
-      resolution and stress management skills, organizational and managerial skills, and 
-      time management skills.
-      I also had the opportunity to complete relevant training in my practice as a nurse, 
-      which includes Therapeutic Boundaries, Cognitive Behavioral Therapy/ Dialectical Behavior 
-      Therapy, Motivational Interviewing, Stress Management and Conflict Resolution training.
-      
-      
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      personal statement: My name is Teresa Lopes and I’m Portuguese. I’ve moved to the UK from sunny Portugal 
-      five years ago to pursue a better life. Up until now I was working as a nurse, however I needed a career 
-      change, so I decided to take my love for people and caring to the next level, by emerging myself in the 
-      world of people’s profession. I love working with people and that’s why I am so excited to start my career 
-      in the Human Resources area.
-      In my role as a nurse, I developed essential knowledge and skills transferable to my new area of interest, 
-      Human Resources, such as communication and relational skills, time management, teamwork, conflict resolution, 
-      performance reviews, leadership and even stress management.
-      Ive completed a diploma in Leadership & Management, which has provided me with an amazing insight into the 
-      relevance of appropriate management and leadership in the workplace. Im currently finishing the CIPD level 5 
-      diploma in Human Resources Management, which has equipped me with amazing tools to be able to continue my work 
-      caring for people. Im also currently attending the Damia Group Tech Recruitment Academy. 
-      Im fluent in English, but also Portuguese and Spanish, and I’m presently working on my French! 
-      Im enthusiastic and eager to learn, I’m quick on my feet, organized, resourceful, reliable, creative, a 
-      perfectionist (which sounds like a flaw, but it means I’ll always give my absolute best in any task), I’m very 
-      sociable and a great communicator… talking to people comes natural to me. I’m also not afraid to be original and 
-      unconventional!
-      Im currently looking for a job in Tech recruitment!
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
- 
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
+
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
