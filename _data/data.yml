@@ -43,7 +43,7 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: TechANTers
+      degree: TechANTers
       university: Damia Group Tech Recruitment Academy
       time: 10/01/2022 - 03/03/2022
       details: |
@@ -53,7 +53,7 @@ education:
        in public platforms, negotiation and communication strategies and key 
        essential skills for tech recruiters.
          
-    - degree: CIPD Level 5 Diploma in Human Resources Management
+      degree: CIPD Level 5 Diploma in Human Resources Management
       university: ICS Learn
       time: 03/09/2020 - 03/03/2022
       details: |
@@ -62,7 +62,7 @@ education:
         leadership, labour market and trends, equality and diversity, motivation,
         reward, and employment law.
           
-    - degree: Professional Diploma in Leadership & Management
+      degree: Professional Diploma in Leadership & Management
       university: Shaw Academy, accredited by International Accreditation Organization, CPD certification Service and ICSOC
       time: 01/07/2019 - 01/01/2020
       details: |
@@ -71,7 +71,7 @@ education:
         intelligence, conflict management, strategic thinking, stress management, 
         resilience, strategic awareness, and change management.
        
-     - degree: Nursing Degree
+      degree: Nursing Degree
       university: Instituto Politécnico de Setúbal - Escola Superior de Saúde, 
       Setúbal, Portugal
       time: 24/09/2012 - 26/07/2016
