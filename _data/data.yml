@@ -31,32 +31,18 @@ sidebar:
 
       - idiom: French
         level: Basic (Currently learning)
-        
-        
-
+     
 career-profile:
     title: Career Profile
     summary: |
-      My name is Teresa Lopes and I’m Portuguese. I’ve moved to the UK from sunny Portugal 
-      five years ago to pursue a better life. Up until now I was working as a nurse, however I needed a career 
-      change, so I decided to take my love for people and caring to the next level, by emerging myself in the 
-      world of people’s profession. I love working with people and that’s why I am so excited to start my career 
-      in the Human Resources area.
-      In my role as a nurse, I developed essential knowledge and skills transferable to my new area of interest, 
-      Human Resources, such as communication and relational skills, time management, teamwork, conflict resolution, 
-      performance reviews, leadership and even stress management.
-      Ive completed a diploma in Leadership & Management, which has provided me with an amazing insight into the 
-      relevance of appropriate management and leadership in the workplace. Im currently finishing the CIPD level 5 
-      diploma in Human Resources Management, which has equipped me with amazing tools to be able to continue my work 
-      caring for people. Im also currently attending the Damia Group Tech Recruitment Academy. 
-      Im fluent in English, but also Portuguese and Spanish, and I’m presently working on my French! 
-      Im enthusiastic and eager to learn, I’m quick on my feet, organized, resourceful, reliable, creative, a 
-      perfectionist (which sounds like a flaw, but it means I’ll always give my absolute best in any task), I’m very 
-      sociable and a great communicator… talking to people comes natural to me. I’m also not afraid to be original and 
-      unconventional!
-      Im currently looking for a job in Tech recruitment!
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 
-    education:
+education:
     - degree: TechANTers
       university: Damia Group Tech Recruitment Academy
       time: 10/01/2022 - 03/03/2022
