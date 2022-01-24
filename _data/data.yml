@@ -110,16 +110,22 @@ skills:
 
     toolset:
       - name: Communication and relational skills
+        level: 98%
         
       - name: Leadership skills
+        level: 90%
         
       - name: Conflict resolution
+        level: 95%
         
       - name: Stress management skills
+        level: 95%
         
       - name: Organizational and managerial skills
+        level: 95%
         
       - name: Time management skills
+        level: 98%
         
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
